@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   &nbsp;
-  <a href="RESUME_URL">
+  <a href="https://drive.google.com/file/d/1Hfd2SXzKNeGw3e4ysh6mjqTptqKQEp2h/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-087F68?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume">
   </a>
 </p>
