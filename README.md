@@ -31,14 +31,14 @@
 
 |  |  |
 | :--- | :--- |
-| **[MScontractor](https://github.com/Zoom7122/MsContractor)** | MoySklad integration: counterparty synchronization and merging. |
+| **MScontractor** | MoySklad integration: counterparty synchronization and merging. |
 | **[Avito Start Hackathon 2026](https://github.com/Zoom7122/queue-platform)** 🏆 | A queue platform for purchasing products. **4th place out of 50 teams**. |
 | **[BlogAPP](https://github.com/Zoom7122/Blog_APP_Csharp_MVC_VUE)** | A fullstack blog built with ASP.NET Core and Vue: posts, comments, and role-based authorization. |
 | **[Discover_the_wine](https://github.com/Zoom7122/Discover_the_wine)** | A web service that identifies Russian wines from bottle photos. |
 
 ### Currently working on… 🔭
 
-**[MScontractor](https://github.com/Zoom7122/MsContractor)** 📋 — developing MoySklad integration, data synchronization, and counterparty merging, with all related data transferred to the primary counterparty.
+**MScontractor** 📋 — developing MoySklad integration, data synchronization, and counterparty merging, with all related data transferred to the primary counterparty.
 
 ### Education 🎓
 
